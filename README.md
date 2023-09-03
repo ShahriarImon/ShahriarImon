@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahriarImon
-- - 👀 I’m interested in React.js, Next.js & Node.js
+- 👀 I’m interested in React.js, Next.js & Node.js
 - 🔭 I’m currently working on React.js, Next.js
 - 🌱 I’m currently learning Next.js & Node.js
 - 💞️ I’m looking to collaborate on OpenSource Projects
